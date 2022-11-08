@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Ming0Kim&fontSize=90)
 
-:book: Tech Stack :book:
+:book: <h5>Tech Stack</h5> :book:
 
 :books: Platforms & Languages :books:
 
