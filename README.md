@@ -9,6 +9,7 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=Bootstrap&logoColor=white"/>
 </div>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ming0Kim&show_icons=true&theme=radical)
 
 <!--
 **Ming0Kim/Ming0Kim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
