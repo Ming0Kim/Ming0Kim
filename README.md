@@ -1,5 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Erinys&fontSize=90)
 
+:rabbit: Erinys :rabbit:
+
 :book: <h5>Tech Stack</h5> :book:
 
 :books: Platforms & Languages :books:
